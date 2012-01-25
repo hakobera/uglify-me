@@ -1,0 +1,17 @@
+{
+  "name": "uglify-me",
+  "description": "JavaScript uglify server",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "2.5.x",
+    "stylus": ">= 0.0.1",
+    "ejs": ">= 0.0.1",
+    "uglify-js": "1.x"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "request": "*"
+  },
+  "engines": { "node": ">- 0.6.0 < 0.7.0" }
+}
