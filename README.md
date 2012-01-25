@@ -15,6 +15,7 @@ Usage
 
     $ git https://github.com/hakobera/uglify-me.git
     $ cd uglify-me
+    $ npm install
     $ node app.js
 
 Usage from curl
