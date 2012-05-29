@@ -13,7 +13,7 @@ You'll need to install the following software to run this application.
 Usage
 -----
 
-    $ git https://github.com/hakobera/uglify-me.git
+    $ git clone https://github.com/hakobera/uglify-me.git
     $ cd uglify-me
     $ npm install
     $ node app.js
